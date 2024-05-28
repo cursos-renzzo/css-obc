@@ -7,7 +7,7 @@
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
 
-As tecnologias que foram utilizadas são as seguintes (em ambas matérias): 
+As tecnologias que foram utilizadas são as seguintes: 
 
 - CSS - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>
 - VSCODE - <a href= "https://code.visualstudio.com/">VSCODE</a>
